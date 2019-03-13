@@ -2,11 +2,16 @@
   DIAGNOSTIC STYLING
 */
 body {
-  background: gray;
-}
-
-* {
-  outline: 1px dotted black;
+  background:blanchedalmond;
 }
 
 /* Your Awesome Scripts */
+#tab-1{
+  background: lavenderblush;
+}
+#tab-2{
+  background: lemonchiffon;
+}
+#tab-3{
+  background: lightcyan;
+}
